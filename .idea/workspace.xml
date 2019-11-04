@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e9351f7-45c3-4a2e-825a-20d9fc9d8eb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-tetris-native-js/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app-tetris-native-js/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572819603907</updated>
       <workItem from="1572819605001" duration="3195000" />
-      <workItem from="1572822835680" duration="367000" />
+      <workItem from="1572822835680" duration="6550000" />
     </task>
     <servers />
   </component>
