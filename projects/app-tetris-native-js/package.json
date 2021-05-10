@@ -9,7 +9,7 @@
     "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-rsync": "0.0.8",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0"
   },
   "devDependencies": {},
